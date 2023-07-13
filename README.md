@@ -5,3 +5,5 @@ step-1 convert jmx file to jtl file with this command
 # jmeter -n -t Opencart_demo_10.jmx -l Opencart_demo_10.jtl
 step-2 Then generate html report with this command
 # jmeter -g Opencart_demo_10.jtl -o report\Opencart_demo_10.html
+
+file:///D:/apache-jmeter-5.6.2/bin/report/Opencart_demo_10.html/index.html
